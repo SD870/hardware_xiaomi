@@ -41,10 +41,10 @@
     <string name="dolby_volume_leveler_summary">Équilibre le volume pour une écoute homogène</string>
     <string name="dolby_connect_headphones">Connecter un casque</string>
     <string name="dolby_reset_all">Réinitialiser les profils</string>
-    <string name="dolby_reset_all_message">Cela réinitialisera tous les profils aux valeurs d'usine.</string>
+    <string name="dolby_reset_all_message">Cela réinitialisera tous les profils aux valeurs d\'usine.</string>
     <string name="dolby_reset_all_toast">Tous les profils ont été réinitialisés avec succès</string>
     <string name="dolby_hp_virtualizer_dolby_strength">Intensité du virtualiseur surround</string>
-    <string name="dolby_dialogue_enhancer_dolby_strength">Intensité de l'amélioration des dialogues</string>
+    <string name="dolby_dialogue_enhancer_dolby_strength">Intensité de l\'amélioration des dialogues</string>
     <string name="dolby_notification_listener_label">Service Dolby Atmos</string>
     <string name="loading">Chargement...</string>
 
@@ -100,7 +100,7 @@
     <string name="frequency_response">Réponse en fréquence</string>
     <string name="locked">Verrouillé</string>
     <string name="band_configuration">Configuration des bandes</string>
-    <string name="choose_equalizer_precision">Choisissez la précision de l'égaliseur : plus de bandes = contrôle plus fin</string>
+    <string name="choose_equalizer_precision">Choisissez la précision de l\'égaliseur : plus de bandes = contrôle plus fin</string>
 
     <!-- Dolby intelligent EQ -->
     <string name="dolby_ieq">Égaliseur intelligent</string>
@@ -114,16 +114,16 @@
     <string name="app_profiles_search_hint">Rechercher des applications...</string>
     <string name="app_profiles_no_apps">Aucune application trouvée</string>
     <string name="app_profiles_loading">Chargement des applications...</string>
-    <string name="app_profiles_clear_all">Effacer tous les profils d'application</string>
+    <string name="app_profiles_clear_all">Effacer tous les profils d\'application</string>
     <string name="app_profiles_clear_all_message">Cela supprimera toutes les attributions de profil par application. Les applications utiliseront le profil par défaut.</string>
-    <string name="app_profiles_manage">Gérer les profils d'application</string>
+    <string name="app_profiles_manage">Gérer les profils d\'application</string>
     <string name="app_profiles_default">Par défaut</string>
     <string name="app_profiles_assigned">Attribué : %1$s</string>
     <string name="app_profiles_headphone_only">Mode casque/Bluetooth uniquement</string>
     <string name="app_profiles_headphone_only_description">Ne changer de profil que lorsque des écouteurs ou des appareils audio Bluetooth sont connectés</string>
     <string name="app_profiles_permission_required">Autorisation requise</string>
-    <string name="app_profiles_permission_required_details">Pour basculer automatiquement les profils selon l'application active, veuillez accorder l'autorisation d'accès à l'utilisation sur l'écran suivant.</string>
-    <string name="app_profiles_grant_permission">Accorder l'autorisation</string>
+    <string name="app_profiles_permission_required_details">Pour basculer automatiquement les profils selon l\'application active, veuillez accorder l\'autorisation d\'accès à l\'utilisation sur l\'écran suivant.</string>
+    <string name="app_profiles_grant_permission">Accorder l\'autorisation</string>
     <string name="app_profiles_search_placeholder">Rechercher des applications...</string>
     <string name="app_profiles_no_apps_found">Aucune application trouvée</string>
     <string name="app_profiles_retry">Réessayer</string>
@@ -142,14 +142,14 @@
     <string name="preset_share">Partager le préréglage</string>
     <string name="preset_export_success">Préréglage exporté avec succès</string>
     <string name="preset_import_success">Préréglage importé avec succès</string>
-    <string name="preset_export_failed">Échec de l'exportation</string>
-    <string name="preset_import_failed">Échec de l'importation</string>
+    <string name="preset_export_failed">Échec de l\'exportation</string>
+    <string name="preset_import_failed">Échec de l\'importation</string>
 
     <!-- Notification Access -->
     <string name="notification_access_required">Accès aux notifications requis</string>
-    <string name="notification_access_required_desc">Activez l'accès aux notifications pour maintenir Dolby Atmos en arrière-plan et permettre le changement automatique de profil.</string>
-    <string name="enable_notification_access">Activer l'accès aux notifications</string>
-    <string name="enable_notification_access_desc">Activez l'accès aux notifications pour maintenir Dolby Atmos en arrière-plan et permettre le changement automatique de profil.</string>
+    <string name="notification_access_required_desc">Activez l\'accès aux notifications pour maintenir Dolby Atmos en arrière-plan et permettre le changement automatique de profil.</string>
+    <string name="enable_notification_access">Activer l\'accès aux notifications</string>
+    <string name="enable_notification_access_desc">Activez l\'accès aux notifications pour maintenir Dolby Atmos en arrière-plan et permettre le changement automatique de profil.</string>
     <string name="notification_access_permission_details">Cette autorisation permet à Dolby Atmos de :\n\n• Fonctionner en continu en arrière-plan\n• Changer automatiquement de profils audio\n• Surveiller les applications au premier plan\n\nVos notifications ne seront ni lues ni modifiées.</string>
     <string name="open_settings">Ouvrir les paramètres</string>
     <string name="cancel">Annuler</string>
