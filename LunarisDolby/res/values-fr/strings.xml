@@ -7,6 +7,7 @@
 
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_summary">Profitez d\'un son immersif</string>
     <string name="dolby_enable">Utiliser Dolby Atmos</string>
     <string name="dolby_profile_title">Choisir un profil</string>
     <string name="dolby_preset">Égaliseur</string>
@@ -101,6 +102,15 @@
     <string name="locked">Verrouillé</string>
     <string name="band_configuration">Configuration des bandes</string>
     <string name="choose_equalizer_precision">Choisissez la précision de l\'égaliseur : plus de bandes = contrôle plus fin</string>
+    <string name="band_tuner">Ajusteur de bande</string>
+    <string name="band_tuner_desc">Parcourez les bandes et ajustez le gain par pas de 0,1 dB</string>
+    <string name="band_tuner_position">Bande %1$d sur %2$d</string>
+    <string name="band_tuner_label">Bande %1$d · %2$s</string>
+    <string name="band_tuner_previous">Bande précédente</string>
+    <string name="band_tuner_next">Bande suivante</string>
+    <string name="band_tuner_decrement">−0,1 dB</string>
+    <string name="band_tuner_reset">0 dB</string>
+    <string name="band_tuner_increment">+0,1 dB</string>
 
     <!-- Dolby intelligent EQ -->
     <string name="dolby_ieq">Égaliseur intelligent</string>
@@ -166,4 +176,29 @@
     <string name="batch_export">Exportation en lot</string>
     <string name="batch_export_description">Exporter les %1$s préréglages personnalisés dans un seul fichier ?</string>
     <string name="export_all">Tout exporter</string>
+<!-- Dolby mid enhancer -->
+    <string name="dolby_mid_enhancer">Amplificateur de médiums</string>
+    <string name="dolby_mid_level">Niveau des médiums</string>
+    <string name="dolby_mid_enhancer_summary">Améliore les fréquences moyennes pour des voix et instruments plus clairs</string>
+
+    <!-- Per-device state memory -->
+    <string name="device_state_memory_title">Mémoire audio par appareil</string>
+    <string name="device_state_memory_summary">Mémoriser les réglages Dolby pour chaque appareil audio (écouteurs, haut-parleurs, Bluetooth)</string>
+    <string name="device_state_memory_conflict_toast">Profils par application désactivés — incompatibles avec la mémoire par appareil</string>
+    <string name="device_state_memory_conflict_summary">⚠ Désactivé tant que la mémoire par appareil est active — conflit de paramètres</string>
+    <string name="app_profile_conflict_toast">Mémoire par appareil désactivée — incompatible avec les profils par application</string>
+    <string name="app_profile_conflict_summary">⚠ Désactivé tant que les profils par application sont actifs — conflit de paramètres</string>
+    <string name="device_state_memory_section_title">Mémoire des appareils audio</string>
+
+    <!-- AutoEQ Profile -->
+    <string name="dolby_autoeq_title">Appliquer le profil AutoEQ</string>
+    <string name="dolby_autoeq_applied">AutoEQ appliqué pour %1$s</string>
+    <string name="dolby_autoeq_preset_name">AutoEQ : %1$s</string>
+    <string name="dolby_autoeq_search_hint">Rechercher parmi plus de 8 000 profils...</string>
+    <string name="dolby_autoeq_currently_applied">Actuellement appliqué</string>
+    <string name="dolby_autoeq_clear">Effacer la recherche</string>
+    <string name="dolby_autoeq_search">Rechercher</string>
+    <string name="dolby_autoeq_active">Profil actif</string>
+    <string name="dolby_autoeq_selected">Profil sélectionné</string>
 </resources>
+
